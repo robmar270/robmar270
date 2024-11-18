@@ -11,7 +11,7 @@ I'm Robin, a Data Analyst/Data Engineer passionate about turning raw data into a
 Take a look at my [portfolio](https://github.com/robmar270/Portfolio_Robin.Martin) where I bring data to life through:<br />
 <pre>🛠️ Dynamic Dashboards: Interactive visuals in Tableau and Looker Studio.<br />
 🗃️ SQL Workflows: Optimized queries for real-world data problems.<br />
-🧠 Data Modeling: Efficient and scalable solutions for analytics.<br /> 
+🧠 Data Modeling: Efficient and scalable solutions for analytics.<br /> <pre/>
 
 ### 🔧 Tools & Technologies<br />
 <pre>Languages: SQL, Python<br />
