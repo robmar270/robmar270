@@ -2,7 +2,7 @@
 
 I'm Robin, a Data Analyst/Data Engineer passionate about turning raw data into actionable insights. I specialize in data analysis, dashboard development, and query optimization to help businesses make data-driven decisions.
 
-### 🌟 About Me <br />
+### About Me <br />
 - Skilled in SQL for data querying, analysis, and database design. <br />
 - Dashboard: Proficient in creating visually engaging dashboards using Tableau and Looker Studio. <br />
 - Experienced in data modeling, generating reports, and performing ad-hoc analysis with Google Spreadsheets and Excel. <br />
