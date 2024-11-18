@@ -1,6 +1,6 @@
 ## Hi there👋
 
-I'm Robin, a Data Analyst/Data Engineer passionate about turning raw data into actionable insights. I specialize in data analysis, dashboard development, and query optimization to help businesses make data-driven decisions.
+I'm Robin, a Data Analyst/Data Engineer passionated about turning raw data into actionable insights. I specialize in data analysis, dashboard development, and query optimization to help businesses make data-driven decisions.
 
 ### About Me <br />
 - Skilled in SQL for data querying, analysis, and database design. <br />
