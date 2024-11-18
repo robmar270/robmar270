@@ -1,7 +1,7 @@
 ## Hi there, Welcome to my GitHub 👋
 
 Hello, I'm Robin. a Data Analyst/Data Engineer who has a passio of in turning raw data into actionable insights. My focus is on data analysis, dashboard development, and query optimization to help businesses make data-driven decisions.
-
+<br />
 ### 🌟 About Me <br />
 🔍 Skilled in SQL for data querying, analysis, and database design. <br />
 📊 Proficient in creating visually engaging dashboards using Tableau and Looker Studio. <br />
