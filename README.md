@@ -17,7 +17,7 @@ Take a look at my [portfolio](https://github.com/robmar270/Portfolio_Robin.Marti
 <pre>Languages: SQL, Python<br />
 Databases: Google BigQuery, PostgreSQL, MySQL<br />
 Visualization: Tableau, Looker Studio<br />
-Other Tools: Google Sheets, Excel, Figma<br />
+Other Tools: Google Sheets, Excel, Figma<br /> <pre/>
 
 <!--
 **robmar270/robmar270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
